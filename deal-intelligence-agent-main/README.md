@@ -1,6 +1,6 @@
 # 🤝 Deal Intelligence Agent
 
-An AI sales assistant built for the Hack with Hyderabad Hackathon that remembers every objection across calls to help sales reps close deals.
+An AI sales assistant  remembers every objection across calls to help sales reps close deals.
 
 ## The Problem
 Sales reps waste hours re-reading CRM notes before calls. Generic chatbots cannot help because they lack context across the entire deal cycle. 
